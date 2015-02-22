@@ -1,5 +1,5 @@
 ## About relay_board
-The relay_board plugin allows you to use one or more relay boards instead of the [OpenSprinkler board](https://opensprinkler.com/product/opensprinkler-pi/) to control sprinkler valves. Some features:
+The relay_board plugin for [OSPi](http://dan-in-ca.github.io/OSPi/) allows you to use one or more relay boards to control sprinkler valves. Some features:
 - Control up to 12 stations
 - Inexpensive relay boards reduce the cost of building your sprinkler controller
 
