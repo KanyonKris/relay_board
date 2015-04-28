@@ -1,4 +1,17 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""relay_board.py: Plugin for OSPi to use relay boards."""
+
+__author__ = "KanyonKris, Dan Kimberling"
+__credits__ = ["KanyonKris", "Dan Kimberling"]
+__maintainer__ = "KanyonKris"
+__email__ = ""
+__website__ = "https://github.com/KanyonKris/relay_board"
+__copyright__ = "Copyright 2014"
+__license__ = "GPL"
+__version__ = "1.0.0"
+__status__ = "Released"
 
 from blinker import signal
 import web, json, time
